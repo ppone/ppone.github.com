@@ -4,7 +4,7 @@
   <title></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2011-07-24T23:22:59-04:00</updated>
+  <updated>2011-07-24T23:28:19-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name>Your Name</name>
@@ -17,7 +17,7 @@
     <link href="http://yoursite.com/blog/2011/07/24/post-1"/>
     <updated>2011-07-24T18:45:00-04:00</updated>
     <id>http://yoursite.com/blog/2011/07/24/post-1</id>
-    <content type="html">&lt;p&gt;hello world&lt;/p&gt;
+    <content type="html">&lt;p&gt;hello world in your face&lt;/p&gt;
 </content>
   </entry>
   
